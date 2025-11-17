@@ -1,3 +1,4 @@
+/*  `src/app/app.config.server.ts` - Configuración adicional para renderizado en servidor (SSR). */
 import { mergeApplicationConfig, ApplicationConfig } from '@angular/core';
 import { provideServerRendering, withRoutes } from '@angular/ssr';
 import { appConfig } from './app.config';

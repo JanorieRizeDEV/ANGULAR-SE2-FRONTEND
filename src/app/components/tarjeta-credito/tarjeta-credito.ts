@@ -1,3 +1,4 @@
+/*  `src/app/components/tarjeta-credito/tarjeta-credito.ts` - Componente que gestiona el formulario y listado de tarjetas de crédito. */
 import { CommonModule } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';

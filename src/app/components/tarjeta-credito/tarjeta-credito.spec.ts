@@ -1,3 +1,4 @@
+/*  `src/app/components/tarjeta-credito/tarjeta-credito.spec.ts` - Pruebas unitarias para el componente TarjetaCreditoComponent. */
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { TarjetaCreditoComponent } from './tarjeta-credito';

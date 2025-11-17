@@ -1,3 +1,4 @@
+/*  `src/app/app.ts` - Componente raíz de la aplicación que registra componentes y añade la plantilla y estilos principales. */
 import { Component, signal, NgModule } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { TarjetaCreditoComponent } from "./components/tarjeta-credito/tarjeta-credito";

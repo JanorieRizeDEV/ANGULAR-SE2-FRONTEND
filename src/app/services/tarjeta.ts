@@ -1,3 +1,4 @@
+/*  `src/app/services/tarjeta.ts` - Servicio HTTP para operaciones CRUD sobre tarjetas. */
 import { HttpClient } from '@angular/common/http';
 import { HttpHeaders, HttpResponse } from '@angular/common/http';
 import { Injectable } from '@angular/core';

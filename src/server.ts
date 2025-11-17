@@ -1,3 +1,4 @@
+/*  `src/server.ts` - Servidor Express para renderizado del lado servidor (SSR) y entrega de archivos estáticos. */
 import {
   AngularNodeAppEngine,
   createNodeRequestHandler,

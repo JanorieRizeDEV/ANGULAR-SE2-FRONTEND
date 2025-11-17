@@ -1,3 +1,4 @@
+/*  `src/app/app.spec.ts` - Pruebas unitarias básicas para el componente raíz `App`. */
 import { provideZonelessChangeDetection } from '@angular/core';
 import { TestBed } from '@angular/core/testing';
 import { App } from './app';
